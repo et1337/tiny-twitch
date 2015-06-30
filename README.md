@@ -1,6 +1,9 @@
 # tiny-twitch
-A tiny html/javascript game who's source code fits in one tweet.  See how many times you can click the 'X'!
 
-Play: http://www.alexyoder.net/tiny-twitch.html
+An HTML/Javascript game in one tweet. Try to click the X twice in a row at the exact same speed.
+
+Play: http://et1337.github.io/tiny-twitch
+
+Forked from the original by [Alex Yoder](https://twitter.com/alex_yoder).
 
 Inspired by a challenge from [Ben Porter](http://www.twitter.com/eigenbom).
